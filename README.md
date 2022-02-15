@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MDFarhanShariar
-- 👀 I’m interested in Competetive programming
+- 👀 I’m interested in Competitive programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
