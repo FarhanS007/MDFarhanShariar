@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me MFSe#6969(discord)
+- 📫 How to reach me MFSe#7225(discord)
 
 <!---
 MDFarhanShariar/MDFarhanShariar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
